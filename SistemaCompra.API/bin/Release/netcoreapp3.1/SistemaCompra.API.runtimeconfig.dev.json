@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eanto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eanto\\.nuget\\packages"
+    ]
+  }
+}

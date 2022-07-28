@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1AwpPjXv0dk/uy9jeeJ68ixtzTNyH893vbzGfffMbbCJvCbPiUoPv2bp0ZwJ1nylz+8+HDQNGJnoOeq4Pulxqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eanto\\Downloads\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eanto\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\eanto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eanto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
